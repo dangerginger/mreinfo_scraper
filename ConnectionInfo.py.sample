@@ -1,0 +1,5 @@
+connectionInfo = {'host'      :"localhost",
+                  'user'      :"databaseUser",
+                  'passwd'    :"databasePassword",
+                  'db'        :"databaseName"
+                  }
